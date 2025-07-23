@@ -27,14 +27,14 @@ The goal of this project was to learn the fundamentals of cloud computing with A
 
 The main steps taken to complete this project were:
 1.  Created a key pair for secure SSH access.
-2.   ![Secrete Access Key](https://github.com/Tooddlez/Creating-an-EC2-Instance-and-installing-an-Apache-web-server-on-it/blob/main/Secret%20Acess%20Key.PNG)
-3.  Launched the EC2 instance, configuring the AMI, instance type, and security group.
-4.  Connected to the instance using an SSH client.
-5.  ![Inbound Rule](https://github.com/Tooddlez/Creating-an-EC2-Instance-and-installing-an-Apache-web-server-on-it/blob/main/Inbound%20Rule1.PNG)
-6.  Updated the system packages using `sudo yum update -y`.
-7.  Installed Apache with `sudo yum install httpd -y`.
-8.  ![Secrete Access Key](https://github.com/Tooddlez/Creating-an-EC2-Instance-and-installing-an-Apache-web-server-on-it/blob/main/Installed%20an%20Apache%20server%20on%20a%20Linux%20EC2%20Istance.PNG)
-9.  Started and enabled the Apache service.
+     ![Secrete Access Key](https://github.com/Tooddlez/Creating-an-EC2-Instance-and-installing-an-Apache-web-server-on-it/blob/main/Secret%20Acess%20Key.PNG)
+2.  Launched the EC2 instance, configuring the AMI, instance type, and security group.
+3.  Connected to the instance using an SSH client.
+    ![Inbound Rule](https://github.com/Tooddlez/Creating-an-EC2-Instance-and-installing-an-Apache-web-server-on-it/blob/main/Inbound%20Rule1.PNG)
+4.  Updated the system packages using `sudo yum update -y`.
+5.  Installed Apache with `sudo yum install httpd -y`.
+    ![Secrete Access Key](https://github.com/Tooddlez/Creating-an-EC2-Instance-and-installing-an-Apache-web-server-on-it/blob/main/Installed%20an%20Apache%20server%20on%20a%20Linux%20EC2%20Istance.PNG)
+6.  Started and enabled the Apache service.
 
 ## 📸 Final Result
 
